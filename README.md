@@ -25,21 +25,22 @@
 ## 🌱 Proceso
  - Desarrollo de ramas
  <p align="center">
-	  <img src="https://github.com/Estrega/recipe-page/blob/main/imagen/dibujo5.jpg" width=20% height=20%/>
+	  <img src="https://github.com/Estrega/recipe-page/blob/main/imagen/dibujo5.jpg" width=40% height=40%/>
 </p
 
 - Diseño en el visual
 <p align="center">
-	  <img src="https://github.com/Estrega/recipe-page/blob/main/imagen/dibujo3.jpg" width=20% height=20%/>
+	  <img src="https://github.com/Estrega/recipe-page/blob/main/imagen/dibujo3.jpg" width=40% height=40%/>
 </p
-<p align="lift">
-	  <img src="https://github.com/Estrega/recipe-page/blob/main/imagen/dibujo4.jpg" width=20% height=20%/>
+<p align="center">
+	  <img src="https://github.com/Estrega/recipe-page/blob/main/imagen/dibujo4.jpg" width=40% height=40%/>
 </p
 ## 👩‍💻 Desarrollado por
 **Mercy Chancayauri Canales**
 
 - **Repositorio:** [Github](https://github.com/Estrega/recipe-page)
 - **Live Site:** [Web](https://estrega.github.io/recipe-page/)
+
 
 
 
