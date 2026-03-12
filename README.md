@@ -1,14 +1,15 @@
 # Frontend Mentor - Página de receta
-
-![Vista previa del diseño para el desafío de codificación de la página de receta](./preview.jpg)
 <p align="center">
+	<img src="https://github.com/Estrega/recipe-page/blob/main/design/desktop-design.jpg" width=50% height=50%>
+
+</p> 
 	 
 # Frontend Mentor - Recipe Page
  Realizar un diseño que se adapte a la imagen. Proporcionada.
 
 ## 🛠️ Tecnologías usadas
-<p align="center">
-	  <img src="https://github.com/Estrega/recipe-page/blob/main/imagen/dibujo1.jpg" width=50% height=50%/>
+<p align="lift">
+	  <img src="https://github.com/Estrega/recipe-page/blob/main/imagen/dibujo1.jpg" width=20% height=20%/>
 </p>
 
 - HTML5 semántico
@@ -25,11 +26,12 @@
 ## 👩‍💻 Desarrollado por
 **Mercy Chancayauri Canales**
 
-- **Repositorio:** [https://github.com/Estrega/recipe-page](https://github.com/Estrega/recipe-page)
-- **Live Site:** [https://estrega.github.io/recipe-page](https://estrega.github.io/recipe-page/)
+- **Repositorio:** [Github](https://github.com/Estrega/recipe-page)
+- **Live Site:** [Web](https://estrega.github.io/recipe-page/)
   
 Confección y Publicación de Páginas Web  
 Factoría F5 · Gijón, Asturias · 2026
+
 
 
 
