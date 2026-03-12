@@ -2,8 +2,7 @@
 
 ![Vista previa del diseño para el desafío de codificación de la página de receta](./preview.jpg)
 <p align="center">
-	  <img src="https://github.com/andreamsgi27/KAMA/blob/aiden4/aiden.png" width=50% height=50%/>
-</p>
+	 
 # Frontend Mentor - Recipe Page
  Realizar un diseño que se adapte a la imagen. Proporcionada.
 
@@ -30,5 +29,6 @@
   
 Confección y Publicación de Páginas Web  
 Factoría F5 · Gijón, Asturias · 2026
+
 
 
