@@ -8,8 +8,9 @@
 
 ## 🛠️ Tecnologías usadas
 <p align="center">
-	  <img src="https://github.com/estrega/recipe-page/imagen/dibujo1.jpg" width=50% height=50%/>
+	  <img src="https://github.com/Estrega/recipe-page/blob/main/imagen/dibujo1.jpg" width=50% height=50%/>
 </p>
+
 - HTML5 semántico
 - CSS3
 
@@ -29,6 +30,7 @@
   
 Confección y Publicación de Páginas Web  
 Factoría F5 · Gijón, Asturias · 2026
+
 
 
 
