@@ -15,7 +15,7 @@
 - Creación repositorio, clonación
 - Creación del diseño en HTML
 - creación de estilos CSS
-- Modificación 
+- Modificación para la versión movil
 
 
 ## 👩‍💻 Desarrollado por
