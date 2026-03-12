@@ -9,7 +9,6 @@ body {
   min-height: 100vh;
 }
 
-/* Contenedor principal en blanco */
 main {
   background: #ffffff; /* fondo blanco */
   width: 700px;
@@ -84,3 +83,62 @@ table tr:nth-child(even) {
   color: hsl(228, 45%, 44%);
   text-decoration: none;
 }
+/* agregando fuente */
+@font-face {
+  font-family: "Outfit-Light";
+  src: url("./assets/fonts/outfit/static/Outfit-Light.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "OutfitBold";
+  src: url("./assets/fonts/outfit/static/Outfit-Bold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+body {
+  font-family: "Outfit-Light", sans-serif;
+}
+h1{
+   font-family: "OutfitBold", sans-serif;
+} 
+/* 📱 Versión móvil */
+@media (max-width: 768px) {
+
+  body {
+    padding: 30px;
+    display: block;
+    
+  }
+
+  main {
+    width: 100%;
+    padding: 16px;
+    border-radius: 12px;
+  }
+
+  img {
+    border-radius: 10px;
+  }
+
+  h1 {
+    font-size: 26px;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  p, li {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  table td {
+    font-size: 15px;
+  }
+}
+
+
+
