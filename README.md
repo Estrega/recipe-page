@@ -1,12 +1,16 @@
 # Frontend Mentor - Página de receta
 
 ![Vista previa del diseño para el desafío de codificación de la página de receta](./preview.jpg)
-
+<p align="center">
+	  <img src="https://github.com/andreamsgi27/KAMA/blob/aiden4/aiden.png" width=50% height=50%/>
+</p>
 # Frontend Mentor - Recipe Page
  Realizar un diseño que se adapte a la imagen. Proporcionada.
 
 ## 🛠️ Tecnologías usadas
-
+<p align="center">
+	  <img src="https://github.com/estrega/recipe-page/imagen/dibujo1.jpg" width=50% height=50%/>
+</p>
 - HTML5 semántico
 - CSS3
 
@@ -26,4 +30,5 @@
   
 Confección y Publicación de Páginas Web  
 Factoría F5 · Gijón, Asturias · 2026
+
 
