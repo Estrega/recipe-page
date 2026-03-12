@@ -4,7 +4,7 @@
 
 </p> 
 	 
-# 🐬Frontend Mentor - Recipe Page
+
  Realizar un diseño que se adapte a la imagen. Proporcionada. Utilizando las herramientas proporcionadas en clase. 
 
 ## 🌱 Tecnologías usadas
@@ -40,6 +40,7 @@
 
 - **Repositorio:** [Github](https://github.com/Estrega/recipe-page)
 - **Live Site:** [Web](https://estrega.github.io/recipe-page/)
+
 
 
 
